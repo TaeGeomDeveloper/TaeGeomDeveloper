@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @TaeGeomDeveloper
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## 만나서 반갑습니다.
+
+- 👋 Hi, I’m TaeGeomDeveloper
+- 👀 I’m interested in Programing and Frontend
+- 🌱 I’m currently learning Frontend
+- 이메일 : alf6292@naver.com
 
 
 
