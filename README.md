@@ -11,3 +11,4 @@
 <h2> My tech stack </h2>
 
 ![JavaScript](https://img.shields.io/badge/-javascript-yellow?style=for-the-badge)
+![HTML](https://img.shields.io/badge/-HTML-red?style=for-the-badge)
