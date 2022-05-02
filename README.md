@@ -3,7 +3,7 @@
 ##
 - 👋 Hi, i'm Yoon, TaeGeom
 - 👀 I’m Junior Developer and interested in Frontend
-- 🌱 현재 프론트엔드 개발 공주 중입니다.
+- 🌱 현재 프론트엔드 개발 학습 중입니다.
 
 - Email : alf6292@naver.com
 
