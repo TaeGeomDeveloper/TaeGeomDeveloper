@@ -11,7 +11,7 @@
 
 ![HTML](https://img.shields.io/badge/-HTML-red?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
-
+![css3](https://img.shields.io/badge/-CSS3-yellow?style=for-the-badge&logo=CSS3&logoColor=white)
 
 
 
