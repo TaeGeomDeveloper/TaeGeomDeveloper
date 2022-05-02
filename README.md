@@ -9,4 +9,4 @@
 
 <h2> My tech stack </h2>
 
-![JavaScript](https://img.shields.io/badge/-javascript-yellow)
+![JavaScript](https://img.shields.io/badge/-javascript-yellow?style=for-the-badge)
