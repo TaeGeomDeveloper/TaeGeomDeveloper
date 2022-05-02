@@ -1,4 +1,4 @@
-<h1> 안녕하세요 윤태검 입니다. <img src="https://user-images.githubusercontent.com/101710828/166177440-4ba9abf8-f3e3-471f-a29d-0bdba116b2e3.png" height="100px" /> </h1>
+<h1> 안녕하세요 윤태검 입니다. <img src="https://user-images.githubusercontent.com/101710828/166177440-4ba9abf8-f3e3-471f-a29d-0bdba116b2e3.png" height="500px" /> </h1>
 
 - 👋 Hi, i'm Yoon, TaeGeom
 - 👀 I’m Junior Developer and interested in Frontend
