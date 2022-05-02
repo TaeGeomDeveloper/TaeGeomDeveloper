@@ -14,7 +14,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-orange?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![NODEJS](https://img.shields.io/badge/-NODEJS-green?style=for-the-badge&logo=node.js&logoColor=white)
-![vue](https://img.shields.io/badge/-Git-brightgreen?style=for-the-badge&logo=vue&logoColor=white)
+![vue](https://img.shields.io/badge/-Vue-brightgreen?style=for-the-badge&logo=vue3&logoColor=white)
 ![GIT](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white)
 
 <h2> currently learning stack </h2>
