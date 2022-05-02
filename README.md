@@ -18,7 +18,7 @@
 ![Bundler](https://img.shields.io/badge/-Bundler-skyblue?style=for-the-badge&logo=bundler&logoColor=white)
 ![GIT](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white)
 
-<h2> currently learning stack </h2>
+<h2> Currently learning stack </h2>
 
 ![vue](https://img.shields.io/badge/-Vue-brightgreen?style=for-the-badge&logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-purple?style=for-the-badge&logo=react&logoColor=white)
