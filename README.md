@@ -1,4 +1,4 @@
-<h1> 안녕하세요 윤태검 입니다. <img src="https://cdn-icons-png.flaticon.com/512/826/826912.png" height="100px" /> </h1>
+<h1> 안녕하세요 윤태검 입니다. <img src="https://cdn-icons-png.flaticon.com/512/826/826912.png" height="100px" /> </h1> 이미지 출처: Freepik
 
 - 👋 Hi, i'm Yoon, TaeGeom
 - 👀 I’m Junior Developer and interested in Frontend
