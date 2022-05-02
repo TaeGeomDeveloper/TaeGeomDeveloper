@@ -12,7 +12,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-red?style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/-CSS3-royalblue?style=for-the-badge&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
-
+![TypeScript](https://img.shields.io/badge/-TypeScript-orange?style=for-the-badge&logo=typecript&logoColor=white)
 
 
 
