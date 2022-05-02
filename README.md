@@ -21,4 +21,4 @@
 <h2> currently learning stack </h2>
 
 ![vue](https://img.shields.io/badge/-Vue-brightgreen?style=for-the-badge&logo=vue.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-purple?style=for-the-badge&logo=react.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-purple?style=for-the-badge&logo=react&logoColor=white)
