@@ -17,4 +17,4 @@
 ![GIT](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white)
 
 <h2> Currently learning stack </h2>
-![React](https://img.shields.io/badge/-React-purple?style=for-the-badge&logo=react&logoColor=white)
+
