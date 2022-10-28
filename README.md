@@ -13,12 +13,8 @@
 ![css3](https://img.shields.io/badge/-CSS3-royalblue?style=for-the-badge&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-darkblue?style=for-the-badge&logo=TypeScript&logoColor=white)
-![NODEJS](https://img.shields.io/badge/-NODEJS-green?style=for-the-badge&logo=node.js&logoColor=white)
-![vue](https://img.shields.io/badge/-Vue-brightgreen?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Bundler](https://img.shields.io/badge/-Bundler-skyblue?style=for-the-badge&logo=bundler&logoColor=white)
 ![GIT](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white)
 
 <h2> Currently learning stack </h2>
-
-![vue](https://img.shields.io/badge/-Vue-brightgreen?style=for-the-badge&logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-purple?style=for-the-badge&logo=react&logoColor=white)
